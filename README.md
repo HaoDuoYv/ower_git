@@ -132,9 +132,6 @@ ugit fetch /tmp/remote_repo
 - 未实现压缩存储（如 Git 的 packfile）。
 - 适合学习用途，不建议用于生产环境。
 
-## 八、结语
+## 八、项目来源
 
-ugit 是一个纯粹用于学习和探索 Git 内部机制的实验项目。  
-通过阅读和修改源代码，你可以深入理解 Git 的对象模型、索引机制、分支管理、差异与合并算法等核心概念。
-
-祝你玩得开心，学得愉快！
+根据[Git Internals - Learn by Building Your Own Git]：(https://www.leshenko.net/p/ugit/#)教程进行编写
